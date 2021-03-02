@@ -4,7 +4,7 @@
 
 int getRandomnumber(int number);
 
-void main()
+void main_fuction_projects()
 {
 	// 비밀번호를 맞춰봅니다.
 	// 5번의 기회 / num1 x num2 = ?
