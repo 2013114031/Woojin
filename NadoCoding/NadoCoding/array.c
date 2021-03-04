@@ -1,6 +1,6 @@
 # include <stdio.h>
 
-int main(void)
+int main_array(void)
 {
 	// 배열을 만들어 봅시다.
 
